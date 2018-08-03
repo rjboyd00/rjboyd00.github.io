@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ryan Boyd's personal website
 
 You can use the [editor on GitHub](https://github.com/rjboyd00/rjboyd00.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
